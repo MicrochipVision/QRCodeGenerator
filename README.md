@@ -23,9 +23,9 @@ Use the following common to restore the required libraries
 - Run the script using the following command:
   `python main.py`
 - The script will prompt you to enter the following information:
-   1.URL: The URL that you want to convert to a Qr code
-   2.Image size in pixels: The size of the QR code image in pixels.
-   3.Error correction level: The Level of erros correction for the QR code.
+   1. URL: The URL that you want to convert to a Qr code
+   2. Image size in pixels: The size of the QR code image in pixels.
+   3. Error correction level: The Level of erros correction for the QR code.
   
 - Once you have entered the required information, the script generate a QR code image and save it in the same directory with the file name `qrcode.png`
 
