@@ -17,7 +17,7 @@ Use the following common to restore the required libraries
 ` pip install qrcode pillow`
 
 
-## Usage
+## Usage 🎃
 - Clone this repository to your local machine.
 - Open a terminal or command prompt and navigate to the directory Have you cloned the repository.
 - Run the script using the following command:
@@ -30,11 +30,11 @@ Use the following common to restore the required libraries
 - Once you have entered the required information, the script generate a QR code image and save it in the same directory with the file name `qrcode.png`
 
 
-## Built with
+## Built with 🤑
 - `qrcode`: A QR code generator from python.
 - `Pillow`: The python imaging library.
 
-## License 
+## License 🪪
 The project is licensed under MIT license. See the `license` file for details.
 
 ## Authors 👦🏻
