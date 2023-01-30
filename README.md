@@ -1,10 +1,10 @@
 <h1 align="center">QR Code Generator.✌️👍</h1>
 
 
-` A python is script to generate QR codes from URLs.🙂
+` A python script to generate QR codes from URLs.🙂
 `
 ## Getting Started
- ` These instruction help you to get started with the QR code generator script.
+ ` These instruction help you to get started with the QR code generator script.`
 
 ## Prerequisites 
 You need to have the following software installed on your machine:
