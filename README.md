@@ -39,7 +39,7 @@ The project is licensed under MIT license. See the `license` file for details.
 
 ## Authors 👦🏻
 
-- [@saifislam](https://www.github.com/sa-if)
+- [@MicrochipVision](https://www.github.com/microchipvision)
 
 
 
